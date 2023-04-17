@@ -36,7 +36,7 @@ public class ClassA {
 				System.out.println("Invalid Choice...");
 				System.exit(0);
 			}// end of switch
-			System.out.println("Enter the number of ele:");
+			System.out.println("Enter the number of elected book:");
 			int n = Integer.parseInt(s.nextLine());
 			for (int i = 1; i <= n; i++) {
 				System.out.println("Enter the bCode:");

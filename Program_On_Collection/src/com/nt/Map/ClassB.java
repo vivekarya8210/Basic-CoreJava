@@ -26,9 +26,9 @@ public class ClassB {
 
 			System.out.println(me.getValue());
 
-			if (me.getValue() == "Hi") {
+			if (me.getValue() == "Trisha") {
 
-				System.out.println("Hi");
+				System.out.println("Hi"+" "+me.getValue());
 			}
 
 		}
